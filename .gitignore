@@ -1,0 +1,11 @@
+.direnv/
+result
+result-*
+.nix-*-result
+.cache/
+.DS_Store
+*.swp
+*~
+.npm/
+node_modules/
+.target/
